@@ -1,0 +1,16 @@
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\bin\Debug\SkillsDemo.exe.config
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\bin\Debug\SkillsDemo.exe
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\bin\Debug\SkillsDemo.pdb
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.csproj.AssemblyReference.cache
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\MainWindow.g.cs
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\App.g.cs
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo_MarkupCompile.cache
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo_MarkupCompile.lref
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\MainWindow.baml
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.g.resources
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.Properties.Resources.resources
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.csproj.GenerateResource.cache
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.exe
+C:\Users\Francesco\Desktop\vs-projects\SkillsDemo\SkillsDemo\obj\Debug\SkillsDemo.pdb
