@@ -8,25 +8,34 @@ View-Komponenten in xaml definieren
 
 Beispiel: Datagrid oder Listview an die List<skill> binden (siehe Beispielprojekt)
 
-List mit Typ skill benutzen. warum list int für skills?
-
-Enum benutzen für Skilllevel -> kein switch nötig
+Enum benutzen für Skilllevel -> kein switch nötig (Vorteil: Umwandlung in int möglich)
 
 Mehrere Funktionen in ein Fenster bringen -> sonst sehr viele Fenster
 
+List mit Typ skill benutzen. warum list int für skills?
+
 Objekte benutzen (Employee, Skill)
 
-Skills wiederholen sich (Bsp. C# ist mehrfach drin) Datanbankmodell evtl überarbeiten
+Skills wiederholen sich (Bsp. C# ist mehrfach drin) -> Datanbankmodell evtl überarbeiten
 
-Evtl eigene Klasse, die Datenbank DatabaseConnections-Klassen aufruft
+Evtl eigene Klasse, die DatabaseConnections-Klassen aufruft
 
 Ordnerstruktur Bsp:
--Views
-   - Window1
-   - Window2
-   - Window3
--Models
+
+Views
+
+  - Window1
+   
+  - Window2
+   
+  - Window3
+   
+Models
+
    - Skill
+   
    - Employee
--DataBase
+   
+DataBase
+
    - ...
