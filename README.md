@@ -2,12 +2,12 @@ Verbesserungsvorschläge:
 
 Warum nicht auf die branches geachtet (Git) ?
 
-Warum nicht Entity Framework? !DatabaseConnections-Klasse hat ~850 Zeilen code!
+Warum nicht Entity Framework? DatabaseConnections-Klasse hat ~850 Zeilen code
 
 View-Komponenten in xaml definieren
 Beispiel: Datagrid oder Listview an die List<skill> binden
 
-List<skill> skills benutzen. warum list<int> skills?
+List mit Typ skill benutzen. warum list int für skills?
 
 Enum benutzen für Skilllevel -> kein switch nötig
 Mehrere Funktionen in ein Fenster bringen -> sonst sehr viele Fenster
@@ -27,9 +27,3 @@ Ordnerstruktur Bsp:
    - Employee
 -DataBase
    - ...
-
-------------------
-
-
-
-# SkillsDemo
