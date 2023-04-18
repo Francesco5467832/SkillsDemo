@@ -1,6 +1,7 @@
 Verbesserungsvorschläge:
 
 Warum nicht auf die branches geachtet (Git) ?
+
 Warum nicht Entity Framework? !DatabaseConnections-Klasse hat ~850 Zeilen code!
 
 View-Komponenten in xaml definieren
